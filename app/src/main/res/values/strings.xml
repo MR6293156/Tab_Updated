@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tab_Updated</string>
+    <string name="tab_text1">Tab 1</string>
+    <string name="tab_text2">Tab 2</string>
+    <string name="tab_text3">Tab 3</string>
+
+</resources>
